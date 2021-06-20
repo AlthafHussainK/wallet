@@ -7,7 +7,6 @@ const initialState = {
     { id: 1, text: 'Shirt', amount: -20 },
     { id: 2, text: 'Salary', amount: 400 },
     { id: 3, text: 'Book', amount: -20 },
-    { id: 4, text: 'Food', amount: -10 },
     { id: 5, text: 'Payment', amount: 100 }
   ]
 }
